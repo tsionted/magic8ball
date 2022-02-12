@@ -1,0 +1,29 @@
+h1{
+
+    text-align: center;
+    color: red;
+    font-style: italic;
+    font-size: large;
+
+}
+h2{
+    text-align: center;
+    color: red;
+    font-style: italic;
+    font-size: medium;
+}
+h3{
+    text-align: center;
+    color:brown;
+    font-style: italic;
+    font-size: small;
+}
+label{
+    font-style: oblique;
+    color: chocolate;
+    font-size: small;
+}
+button{
+    background-color: rgb(122, 233, 141);
+}
+
