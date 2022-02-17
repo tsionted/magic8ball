@@ -12,8 +12,8 @@ let images = ["magic/magic/magic8ball_1.png","magic/magic/magic8ball_2.png",
 
 
     function ask(){
-        let rand = Math.floor(Math.random()*images.length);
-        let img = document.createElement("img");
+        let rand = Math.floor(Math.random() *images.length) ;
+        img = document.createElement("img");
         img.style.width='100px';
         img.style.height='100px';
         img.src=images[rand];
